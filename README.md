@@ -1,6 +1,6 @@
 # Athaa
 # 💫 About Me:
-Developer focused on Fullstack Development and Data Analytics.<br>Experienced in building web applications, working with databases and APIs, <br>and analyzing data using Python and SQL. Currently expanding my skills <br>across modern JavaScript/TypeScript ecosystems and data-driven development.
+Developer focused on Fullstack Development and Data Analytics.<br>Experienced in building web applications, working with databases and APIs, <br>and analyzing data using Python and SQL. Currently expanding my skills <br>across modern JavaScript/TypeScript ecosystems and data-driven development. menzell goat
 
 
 ## 🌐 Socials:
